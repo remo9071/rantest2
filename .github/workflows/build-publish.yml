@@ -1,6 +1,6 @@
 name: "JFrog Integration Example"
 on: push
-
+ 
 
 jobs:
   build:
